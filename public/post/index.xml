@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on @NathPaiva</title>
+    <link>http://nathpaiva.github.io/gohugo/post/</link>
+    <description>Recent content in Posts on @NathPaiva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 09 Aug 2016 09:45:28 -0300</lastBuildDate>
+    <atom:link href="http://nathpaiva.github.io/gohugo/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>wellcome</title>
+      <link>http://nathpaiva.github.io/gohugo/post/wellcome/</link>
+      <pubDate>Tue, 09 Aug 2016 09:45:28 -0300</pubDate>
+      
+      <guid>http://nathpaiva.github.io/gohugo/post/wellcome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

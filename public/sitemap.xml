@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://nathpaiva.github.io/gohugo/</loc>
+    <lastmod>2016-08-09T10:10:22-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nathpaiva.github.io/gohugo/testew2/</loc>
+    <lastmod>2016-08-09T10:10:22-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nathpaiva.github.io/gohugo/contact/</loc>
+    <lastmod>2016-08-09T09:58:02-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nathpaiva.github.io/gohugo/about/</loc>
+    <lastmod>2016-08-09T09:45:28-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nathpaiva.github.io/gohugo/post/wellcome/</loc>
+    <lastmod>2016-08-09T09:45:28-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nathpaiva.github.io/gohugo/options-markdown/</loc>
+    <lastmod>2016-08-04T23:16:49-03:00</lastmod>
+  </url>
+  
+</urlset>
