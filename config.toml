@@ -1,0 +1,38 @@
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+baseurl = "http://nathpaiva.github.io/gohugo"
+canonifyurls = true
+title = "@NathPaiva"
+theme = "nath-theme"
+
+MetaDataFormat = "toml"
+
+
+languageCode = "pt-br"
+
+[menu]
+    [[menu.main]]
+        name = "About"
+        pre = "<i class='fa fa-user fa-fw'></i>"
+        weight = 0
+        identifier = "about"
+        url = "/about/"
+    [[menu.main]]
+        name = "Options Markdown"
+        pre = "<i class='fa fa-road'></i>"
+        weight = 1
+        identifier = "markdown"
+        url = "/options-markdown/"
+    [[menu.main]]
+        name = "Contact"
+        pre = "<i class='fa fa-road'></i>"
+        weight = 1
+        identifier = "contact"
+        url = "/contact/"
+    [[menu.main]]
+        name = "testew2"
+        pre = "<i class='fa fa-road'></i>"
+        weight = 1
+        identifier = "testew2"
+        url = "/testew2/"
